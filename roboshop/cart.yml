@@ -4,5 +4,5 @@ metadata:
   name: cart
 spec:
   containers:
-    - name: frontend
+    - name: cart
       image: 922057391995.dkr.ecr.us-east-1.amazonaws.com/cart:2.0.0
